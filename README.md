@@ -9,7 +9,7 @@
 Well, what do we have here? 
 Anyway, since you're here, let's dive into the enigma of my projects
 
-**techybluiz/techybluiz**
+**Detailed information**
 
 - 🔭 Name: Bianca Luiz
 - 🌱 Age: 20y
