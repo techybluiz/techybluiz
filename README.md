@@ -13,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## About me
+
+Computer Science student since 2021,with focus on Python.My first encounter with programming was through the C.Previous experience in IT support for and netwoks
