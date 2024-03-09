@@ -7,7 +7,7 @@
 ![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=techybluiz&show_icons=true&theme=default&title_color=8A2BE2&icon_color=8A2BE2)
 ### Hi there 👋
 Well, what do we have here? 
-Anyway, since you're here, let's dive into the enigma of my projects
+Anyway, since you're here, let's dive into the enigma of my projects ;)
 
 **Detailed information**
 
