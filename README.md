@@ -4,7 +4,7 @@
 <a target='_blank' href="https://linkedin.com/in/bianca-santos-71227a19b">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    
         </a>
-![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=techybluiz&show_icons=true&color=purple)
+![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=techybluiz&show_icons=true&theme=default&title_color=8A2BE2&icon_color=8A2BE2)
 
 ### Hi there 👋
 Well, what do we have here? 
