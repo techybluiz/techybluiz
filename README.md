@@ -6,7 +6,7 @@
 ![Programad0r GitHub stats](https://github-readme-stats.vercel.app/api?username=techybluiz&show_icons=true&color=purple)
 
 ### Hi there 👋
-Well, what do we have here? Someone stumbled into my GitHub hideout! 
+Well, what do we have here? 
 Anyway, since you're here, let's dive into the enigma of my projects
 
 **techybluiz/techybluiz**
