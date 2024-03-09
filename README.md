@@ -18,4 +18,4 @@ Anyway, since you're here, let's dive into the enigma of my projects ;)
 
 ## About me
 
-Computer Science student since 2021, with focus on Python. My first encounter with programming was through the C. Previous experience in IT support for and netwoks.
+Computer Science student since 2021, with focus on Python. My first encounter with programming was through the C language. Actually experience in IT support for and netwoks.
