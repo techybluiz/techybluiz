@@ -15,6 +15,7 @@ Anyway, since you're here, let's dive into the enigma of my projects ;)
 - 🌱 Age: 20y
 - 👯 Learning: Python
 - 😄 Pronouns: She/her
+- 🏫 University - Computer Science
 
 ## About me
 
