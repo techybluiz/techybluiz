@@ -12,7 +12,7 @@ Anyway, since you're here, let's dive into the enigma of my projects ;)
 **Detailed information**
 
 - 🔭 Name: Bianca Luiz
-- 🌱 Age: 20y
+- 🌱 Age: 21y
 - 👯 Learning: Python
 - 😄 Pronouns: She/her
 - 🏫 University - Computer Science
